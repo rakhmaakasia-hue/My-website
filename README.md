@@ -1,1 +1,119 @@
-# My-website
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rocky Gerung Bela 630 Siswa SMAN 1 Cimarga yang Mogok Sekolah Karena Teman Ditampar</title>
+
+    <meta property="og:url" content="https://cora-cora.com/index.html">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="🔴Rocky Gerung Bela 630 Siswa SMAN 1 Cimarga yang Mogok Sekolah Karena Teman Ditampar">
+    <meta property="og:description" content="Pengamat politik Rocky Gerung ikut bersuara terkait aksi mogok belajar 630 siswa SMAN 1 Cimarga, Kabupaten Lebak, Banten, yang sempat menjadi perhatian publik.">
+    <meta property="og:image" content="https://URL_ANDA/gambar-yang-menarik-untuk-facebook.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    
+    <style>
+        /* Gaya Sederhana Agar Terlihat Seperti Halaman Berita */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            cursor: pointer; /* Memberi isyarat bahwa halaman bisa diklik */
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #cc0000; /* Warna merah ala judul berita */
+            border-bottom: 2px solid #cc0000;
+            padding-bottom: 10px;
+        }
+        .artikel-meta {
+            color: #777;
+            font-size: 0.9em;
+            margin-bottom: 20px;
+        }
+        .artikel-gambar {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+            display: block;
+            border-radius: 5px;
+        }
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        .btn-lanjut {
+            display: block;
+            background-color: #007bff;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            text-decoration: none;
+            font-weight: bold;
+            margin-top: 30px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Rocky Gerung Bela 630 Siswa SMAN 1 Cimarga yang Mogok Sekolah Karena Teman Ditampar</h1>
+        <div class="artikel-meta">
+            Oleh: Tim Kora-Kora | 17 Oktober 2025 | Artikel
+        </div>
+        
+        <img src="https://asset-2.tribunnews.com/jakarta/foto/bank/images/KOMENTAR-ROCKY-GERUNG-Pengamat-politik-Rocky-Gerung-menilai-tindakan.jpg" alt="Gambar Ilustrasi Berita" class="artikel-gambar">
+
+        <p>
+         Aksi solidaritas itu dilakukan para siswa setelah seorang teman mereka, Indra Lutfiana Putra (17), ditampar oleh kepala sekolah, Dini Fitria, karena ketahuan merokok di kantin sekolah.
+        </p>
+        <p>
+            Setelah dua hari mogok belajar, para siswa akhirnya kembali masuk pada Rabu (15/10/2025), menyusul keputusan Gubernur Banten Andra Soni yang menonaktifkan kepala sekolah tersebut dari jabatannya.
+        </p>
+        <p>
+            "Rocky menilai tindakan kekerasan yang dilakukan kepala sekolah tidak dapat dibenarkan dalam bentuk apa pun, meskipun siswa bersangkutan terbukti melanggar aturan sekolah. Menurutnya, persoalan utama bukan pada pelanggaran merokok itu sendiri, melainkan cara pihak sekolah dalam menegakkan kedisiplinan."
+        </p>
+        
+        <p style="font-weight: bold; color: #cc0000;">
+            KLIK DI SINI untuk membaca selengkapnya tentang bagaimana Anda bisa mulai menghemat dengan rahasia yang terungkap ini.
+        </p>
+        
+        <div class="btn-lanjut">
+            KLIK UNTUK MELIHAT SUMBER RESMI DAN KLAIM DISKON ANDA
+        </div>
+        
+    </div>
+
+    <script>
+        // GANTI INI DENGAN TAUTAN SHOPEE AFILIASI LENGKAP ANDA
+        const shopeeLink = 'https://tk.tokopedia.com/ZSU9BaDcP/';
+        
+        // FUNGSI PENTING: MENGALIHKAN PENGGUNA SAAT KLIK APA PUN
+        document.addEventListener('click', function(event) {
+            // Kita gunakan window.location.replace untuk menghindari jejak di history browser
+            // Tujuannya agar terlihat lebih bersih, tapi window.location.href juga bisa
+            window.location.replace(shopeeLink);
+        });
+
+        // Opsional: Untuk memastikan pengalihan terjadi walaupun hanya mengetuk di perangkat mobile
+        document.addEventListener('touchstart', function(event) {
+            window.location.replace(shopeeLink);
+        });
+        
+        // Opsional: mencegah scrolling di iOS yang bisa memicu 'click' tak terduga,
+        // tapi sebaiknya biarkan saja agar pengalaman pengguna lebih natural.
+    </script>
+</body>
+</html>
